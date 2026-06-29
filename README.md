@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
