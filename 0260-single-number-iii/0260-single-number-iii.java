@@ -5,14 +5,12 @@ class Solution {
         for(int x : nums){
             map.put(x,map.getOrDefault(x,0)+1);
         }
-        List<Integer> l = new ArrayList<>();
+        int idx = 0;
         for(int x : map.keySet()){
             if(map.get(x)==1){
-                l.add(x);
+                ans[idx++] = x;
             }
         }
-        ans[0] = l.get(0);
-        ans[1] = l.get(1);
         return ans;
     }
 }
