@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0658-find-k-closest-elements](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
@@ -26,16 +27,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0912-sort-an-array) |
 ## Data Stream
 |  |
 | ------- |
@@ -91,4 +96,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2351-first-letter-to-appear-twice) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
