@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0260-single-number-iii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0260-single-number-iii) |
+| [0523-continuous-subarray-sum](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0523-continuous-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3522-calculate-score-after-performing-instructions) |
@@ -86,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0523-continuous-subarray-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0523-continuous-subarray-sum) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Queue
 |  |
