@@ -159,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
