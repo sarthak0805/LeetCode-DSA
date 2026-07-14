@@ -10,7 +10,7 @@ class Solution {
             int curr_st = intervals[i][0];
             int curr_end = intervals[i][1];
             if(curr_st<=end){
-                end = Math.max(end,curr_end);
+                end = Math.max(curr_end,end);
             }
             else{
                 l.add(new int[]{st,end});
