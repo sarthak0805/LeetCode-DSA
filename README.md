@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0137-single-number-ii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0260-single-number-iii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0260-single-number-iii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0053-maximum-subarray) |
+| [0198-house-robber](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0198-house-robber) |
 ## Number Theory
 |  |
 | ------- |
