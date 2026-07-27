@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2233-maximum-product-after-k-increments](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2679-sum-in-a-matrix](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2679-sum-in-a-matrix) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2233-maximum-product-after-k-increments](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2679-sum-in-a-matrix](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2679-sum-in-a-matrix) |
 ## Merge Sort
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2233-maximum-product-after-k-increments](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Monotonic Stack
 |  |
