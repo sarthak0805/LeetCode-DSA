@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0260-single-number-iii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 ## Linked List
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Design
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0523-continuous-subarray-sum) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Queue
