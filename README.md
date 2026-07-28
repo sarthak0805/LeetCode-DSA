@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3163-string-compression-iii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3163-string-compression-iii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2679-sum-in-a-matrix](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2679-sum-in-a-matrix) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Data Stream
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0912-sort-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Matrix
 |  |
 | ------- |
