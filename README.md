@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2233-maximum-product-after-k-increments) |
+| [2336-smallest-number-in-infinite-set](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2679-sum-in-a-matrix](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2679-sum-in-a-matrix) |
 ## Merge Sort
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2336-smallest-number-in-infinite-set](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2351-first-letter-to-appear-twice](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3522-calculate-score-after-performing-instructions) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [2336-smallest-number-in-infinite-set](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2336-smallest-number-in-infinite-set) |
 ## Sorting
 |  |
 | ------- |
@@ -311,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0486-predict-the-winner) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
