@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0137-single-number-ii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0137-single-number-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
