@@ -1,20 +1,22 @@
 class Solution {
+    public void swap(int nums[], int i, int j){
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
     public int firstMissingPositive(int[] nums) {
-        Set<Integer> set = new HashSet<>();
-        int min = Integer.MAX_VALUE;
-        int max = Integer.MIN_VALUE;
-        for(int i : nums){
-            if(i<=0) continue;
-            else{
-                min = Math.min(min,i);
-                max = Math.max(max,i);
-                set.add(i);
+        int n = nums.length;
+        for(int i = 0; i < n; i++){
+            while(nums[i] > 0 && nums[i] <= n && nums[nums[i]-1]!=nums[i]){
+                int idx = nums[i]-1;
+                int temp = nums[i];
+                nums[i] = nums[idx];
+                nums[idx] = temp;
             }
         }
-        max = (max<0)?1:max;
-         for(int i = 1 ; i <= max; i++){
-            if(!set.contains(i)) return i;
+        for(int i = 0; i < n; i++){
+            if(nums[i]!=i+1) return i+1;
         }
-        return max+1;
+        return n+1;
     }
 }
