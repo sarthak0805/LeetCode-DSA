@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0137-single-number-ii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [1143-longest-common-subsequence](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2233-maximum-product-after-k-increments](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2233-maximum-product-after-k-increments) |
