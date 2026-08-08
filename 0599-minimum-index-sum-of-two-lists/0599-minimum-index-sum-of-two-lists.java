@@ -11,7 +11,7 @@ class Solution {
                 min = Math.min(min,map.get(list2[j])+j);
                 m1.put(list2[j],map.get(list2[j])+j);
             }
-            // else continue;
+            else continue;
         }
         List<String> ans = new ArrayList<>();
         for(String x : m1.keySet()){
