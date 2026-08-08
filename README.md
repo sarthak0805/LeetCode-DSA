@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0486-predict-the-winner](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0523-continuous-subarray-sum) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0709-to-lower-case) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0523-continuous-subarray-sum) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1331-rank-transform-of-an-array](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
