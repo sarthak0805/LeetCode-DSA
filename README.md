@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2679-sum-in-a-matrix](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2679-sum-in-a-matrix) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3731-find-missing-elements](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2351-first-letter-to-appear-twice](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3731-find-missing-elements](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3731-find-missing-elements) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2679-sum-in-a-matrix](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2679-sum-in-a-matrix) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3731-find-missing-elements) |
