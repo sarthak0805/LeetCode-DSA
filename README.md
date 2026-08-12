@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2679-sum-in-a-matrix](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2679-sum-in-a-matrix) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3731-find-missing-elements](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3731-find-missing-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2351-first-letter-to-appear-twice](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3522-calculate-score-after-performing-instructions) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Design
 |  |
 | ------- |
