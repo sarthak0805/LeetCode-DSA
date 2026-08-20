@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3731-find-missing-elements](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2679-sum-in-a-matrix](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2679-sum-in-a-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Randomized
