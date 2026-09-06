@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0709-to-lower-case) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0486-predict-the-winner) |
