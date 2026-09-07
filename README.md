@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0709-to-lower-case) |
+| [0940-distinct-subsequences-ii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 ## Number Theory
 |  |
