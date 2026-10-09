@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sarthak0805/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarthak0805/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
