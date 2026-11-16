@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3731-find-missing-elements) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3886-sum-of-sortable-integers) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2679-sum-in-a-matrix](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2679-sum-in-a-matrix) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Merge Sort
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3731-find-missing-elements) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Data Stream
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/sarthak0805/LeetCode-DSA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/sarthak0805/LeetCode-DSA/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Monotonic Stack
 |  |
 | ------- |
